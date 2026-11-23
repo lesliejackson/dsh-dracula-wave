@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Wave Terminal Dracula",
+    "description": "Repaints the built-in dark theme with Wave Terminal's Dracula palette (charcoal #282a36 base, purple and cyan accents, Dracula syntax colors). Set Settings > General > Appearance to Dark, or keep System selected while the OS is dark, to see it. Light mode is unchanged, and a registered third-party theme still takes precedence."
+  }
+}

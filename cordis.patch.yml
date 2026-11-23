@@ -1,0 +1,3 @@
+- insert:
+    - id: dracula-wave
+      name: '@local/dsh-dracula-wave'

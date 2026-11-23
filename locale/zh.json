@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Wave Terminal Dracula",
+    "description": "用 Wave Terminal 内置的 Dracula 配色重绘 DSH 自带的深色主题（#282a36 炭灰底、紫色与青色点缀、Dracula 代码高亮色）。在 设置 → 通用设置 → 外观 里选择「深色」即可看到；保持「跟随系统」且系统为深色时同样生效。浅色模式不受影响，已注册的第三方主题优先于此插件。"
+  }
+}
